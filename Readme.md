@@ -11,7 +11,7 @@ This project is focused on predicting flight fares using the Random Forest Regre
 - AWS Elastic Beanstalk (for deployment)
 
 ## Data Source
-The dataset used for training the model is sourced from [Data_Train.xlsx](path/to/Data_Train.xlsx). Ensure that you have the required dataset before running the code.
+The dataset used for training the model is sourced from [kaggle](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh). Ensure that you have the required dataset before running the code.
 
 ## Installation
 1. Clone the repository.
