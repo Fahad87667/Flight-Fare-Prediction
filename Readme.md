@@ -36,9 +36,9 @@ The Random Forest Regressor is a machine learning algorithm used for predicting 
 The model is deployed on AWS Elastic Beanstalk for scalable and reliable hosting. Follow the AWS Elastic Beanstalk documentation for deployment instructions.
 
 ## Contributors
-[Fahad Khan](https://www.linkedin.com/in/fahad-khan-50b141233/)
-[MD Anas](https://www.linkedin.com/in/md-anas-599829201/)
-[Bilal Farooqui](https://www.linkedin.com/in/bilal-farooqui-877a55291/)
+1. [Fahad Khan](https://www.linkedin.com/in/fahad-khan-50b141233/)
+2. [MD Anas](https://www.linkedin.com/in/md-anas-599829201/)
+3. [Bilal Farooqui](https://www.linkedin.com/in/bilal-farooqui-877a55291/)
 
 ## License
 This project is licensed under the MIT License.
