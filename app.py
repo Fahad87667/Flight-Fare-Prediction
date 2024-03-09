@@ -6,7 +6,7 @@ import joblib
 import pandas as pd
 
 app = Flask(__name__)
-model = joblib.load(open("rf_reg.joblib", "rb"))
+model = joblib.load(open("flight.joblib", "rb"))
 
 
 
