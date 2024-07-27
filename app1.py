@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the pre-trained model
-model = joblib.load(open(r"noteboook\flight.joblib", "rb"))
+model = joblib.load(open(r"notebook\flight.joblib", "rb"))
 
 def convert_airline_to_numerical(airline):
     if airline == 'Jet Airways':
